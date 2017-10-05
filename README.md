@@ -1,2 +1,2 @@
-# Numeryczne-r-wnania-r-niczkowe
+# Numeryczne równania róniczkowe
 Laboratoria z przedmiotu NRR  na  MIMUW
